@@ -8,5 +8,53 @@
       "ucdlib:LabelService",
       "ucdlib:Service"
     ]
-  }
+  },
+   {
+        "@id": "http://id.worldcat.org/fast/801355",
+        "http://schema.org/name":  "Argiculture"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/533903",
+        "http://schema.org/name": "American Friends Service Committee"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/806134",
+        "http://schema.org/name": "Alternative Agricultural"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/870818",
+        "http://schema.org/name": "Community development"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/2003288",
+        "http://schema.org/name": "Correspondence"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/1736608",
+        "http://schema.org/name": "Food cooperatives"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/1411641",
+        "http://schema.org/name": " Periodicals"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/1919943",
+        "http://schema.org/name": " Newsletters"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/1094570",
+        "http://schema.org/name": "Renewable energy sources"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/1101498",
+        "http://schema.org/name": "Rural development"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/921488",
+        "http://schema.org/name": "Farms, small"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/1747391",
+        "http://schema.org/name": "Sustainablility"
+    }
 ]

@@ -17,7 +17,9 @@
     "@id": "@base:/labels"
   },
   "schema:about": [
-    "Agriculture"
+    {
+     "@id":"http://id.worldcat.org/fast/801355"
+    }
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
