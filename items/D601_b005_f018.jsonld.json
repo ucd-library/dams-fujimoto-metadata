@@ -16,7 +16,7 @@
   ],
   "schema:about": [
     {
-      "@id": "Correspondence"
+      "@id": "http://id.worldcat.org/fast/2003288"
     }
   ],
   "schema:associatedMedia": {

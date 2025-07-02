@@ -16,7 +16,7 @@
   ],
   "schema:about": [
     {
-      "@id": "Correspondence"
+      "@id": "http://id.worldcat.org/fast/2003288"
     },
     {
       "@id": "Alternative Agriculture Resources Project"
@@ -25,7 +25,7 @@
       "@id": "Rural Research Access Project"
     },
     {
-      "@id": "Rural development"
+      "@id": "http://id.worldcat.org/fast/1101498"
     }
   ],
   "schema:associatedMedia": {

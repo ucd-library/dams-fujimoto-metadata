@@ -16,10 +16,10 @@
   ],
   "schema:about": [
     {
-      "@id": "Agricultural laborers"
+      "@id": "http://id.worldcat.org/fast/800949"
     },
     {
-      "@id": "Correspondence"
+      "@id": "http://id.worldcat.org/fast/2003288"
     }
   ],
   "schema:associatedMedia": {

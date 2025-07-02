@@ -16,13 +16,13 @@
   ],
   "schema:about": [
     {
-      "@id": "Rural development"
+      "@id": "http://id.worldcat.org/fast/1101498"
     },
     {
-      "@id": "Agricultural laborers"
+      "@id": "http://id.worldcat.org/fast/800949"
     },
     {
-      "@id": "Small farms"
+      "@id": "http://id.worldcat.org/fast/921488"
     }
   ],
   "schema:associatedMedia": {

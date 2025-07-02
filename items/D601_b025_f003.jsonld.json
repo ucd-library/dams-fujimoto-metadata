@@ -16,10 +16,10 @@
   ],
   "schema:about": [
     {
-      "@id": "Food cooperatives"
+      "@id": "http://id.worldcat.org/fast/1736608"
     },
     {
-      "@id": "Rural development"
+      "@id": "http://id.worldcat.org/fast/1101498"
     }
   ],
   "schema:associatedMedia": {

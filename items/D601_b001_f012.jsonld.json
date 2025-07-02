@@ -16,13 +16,13 @@
   ],
   "schema:about": [
     {
-      "@id": "Correspondence"
+      "@id": "http://id.worldcat.org/fast/2003288"
     },
     {
-      "@id": "Agricultural laborers"
+      "@id": "http://id.worldcat.org/fast/800949"
     },
     {
-      "@id": "American Friends Service Committee"
+      "@id": "http://id.worldcat.org/fast/533903"
     }
   ],
   "schema:associatedMedia": {

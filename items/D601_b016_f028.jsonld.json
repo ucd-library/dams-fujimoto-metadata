@@ -16,13 +16,13 @@
   ],
   "schema:about": [
     {
-      "@id": "Rural development"
+      "@id": "http://id.worldcat.org/fast/1101498"
     },
     {
-      "@id": "Community development"
+      "@id": "http://id.worldcat.org/fast/870818"
     },
     {
-      "@id": "Correspondence"
+      "@id": "http://id.worldcat.org/fast/2003288"
     }
   ],
   "schema:associatedMedia": {

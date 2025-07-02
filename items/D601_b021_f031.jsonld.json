@@ -16,10 +16,10 @@
   ],
   "schema:about": [
     {
-      "@id": "Small farms"
+      "@id": "http://id.worldcat.org/fast/921488"
     },
     {
-      "@id": "Correspondence"
+      "@id": "http://id.worldcat.org/fast/2003288"
     }
   ],
   "schema:associatedMedia": {
