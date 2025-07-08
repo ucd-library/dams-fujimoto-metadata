@@ -16,10 +16,10 @@
   ],
   "schema:about": [
     {
-      "@id": "http://id.worldcat.org/fast/2003288"
-    },
+      "@id": "http://id.worldcat.org/fast/806134"
+    },	   
     {
-      "@id": "Alternative Agriculture Resources Project"
+      "@id": "http://id.worldcat.org/fast/2003288"
     }
   ],
   "schema:associatedMedia": {

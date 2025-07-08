@@ -19,7 +19,10 @@
       "@id": "http://id.worldcat.org/fast/1747391"
     },
     {
-      "@id": "Periodicals, newsletters, and publications"
+      "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1411641"
     }
   ],
   "schema:associatedMedia": {
