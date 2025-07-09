@@ -38,6 +38,10 @@
         "http://schema.org/name": "Periodicals"
     },
     {
+        "@id": "http://id.worldcat.org/fast/800949",
+        "http://schema.org/name": "Agricultural laborers"
+    },
+    {
         "@id": "http://id.worldcat.org/fast/1919943",
         "http://schema.org/name": "Newsletters"
     },
