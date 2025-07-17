@@ -19,12 +19,6 @@
       "@id": "http://id.worldcat.org/fast/1101498"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1919943"
-    },
-    {
-      "@id": "http://id.worldcat.org/fast/1411641"
-    },
-    {
       "@id": "http://id.worldcat.org/fast/1424060"
     }
   ],
@@ -56,5 +50,5 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
-  "schema:description": " \"Platform for Rural America, \" Revised at the Third National Conference on Rural America December 5- 7,1977, published by Rural America, Washington DC, 1977\""
+  "schema:description": "\"Platform for Rural America,\" Revised at the Third National Conference on Rural America December 5- 7,1977, published by Rural America, Washington DC, 1977."
 }
