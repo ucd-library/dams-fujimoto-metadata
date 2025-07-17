@@ -19,7 +19,11 @@
     },
     {
         "@id": "http://id.worldcat.org/fast/806134",
-        "http://schema.org/name": "Alternative Agricultural"
+        "http://schema.org/name": "Alternative Agriculture"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/02065547",
+        "http://schema.org/name": "Alternative Agricultural Resources Project"
     },
     {
         "@id": "http://id.worldcat.org/fast/870818",
@@ -56,6 +60,14 @@
     {
         "@id": "http://id.worldcat.org/fast/921488",
         "http://schema.org/name": "Farms, small"
+    },
+    {
+        "@id": "http://id.worldcat.org/fast/1919968",
+        "http://schema.org/name": "Serial publications"
+    },
+     {
+        "@id": "http://id.worldcat.org/fast/1424060",
+        "http://schema.org/name": "Manuscripts"
     },
     {
         "@id": "http://id.worldcat.org/fast/1747391",
