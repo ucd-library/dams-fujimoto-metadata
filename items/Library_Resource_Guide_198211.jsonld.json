@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Compiled by Barbara Martinez and published by the State of California Office of Appropriate Technology, Sacramento, CA.",
@@ -32,7 +35,8 @@
     "@value": "1982-11"
   },
   "schema:identifier": [
-    "ark:/87293/d33n20n44"
+    "ark:/87293/d33n20n44",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Library_Resource_Guide_198211_001.tif"

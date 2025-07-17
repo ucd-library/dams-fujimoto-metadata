@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Special issue on solar energy from the National Center for Appropriate Technology, Butte, MT.",
@@ -35,7 +38,8 @@
     "@value": "1978-05"
   },
   "schema:identifier": [
-    "ark:/87293/d3959cg25"
+    "ark:/87293/d3959cg25",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/NCAT_Briefs_Solar_197805_001.tif"

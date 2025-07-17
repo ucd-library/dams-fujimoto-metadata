@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A catalog of information sources about environmental, social, and consumer issues, published by the Southwest Research and Information Center, Albuquerque, NM.",
@@ -29,7 +32,8 @@
     "@value": "1988-04"
   },
   "schema:identifier": [
-    "ark:/87293/d3sb3x63g"
+    "ark:/87293/d3sb3x63g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Workbook_198804_001.tif"

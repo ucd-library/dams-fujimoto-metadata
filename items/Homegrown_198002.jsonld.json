@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter published by the Butte Environmental Council, Chico, CA.",
@@ -29,7 +32,8 @@
     "@value": "1980-02"
   },
   "schema:identifier": [
-    "ark:/87293/d32z12x4z"
+    "ark:/87293/d32z12x4z",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Homegrown_198002_001.tif"

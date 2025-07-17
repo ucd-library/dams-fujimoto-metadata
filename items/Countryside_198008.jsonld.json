@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "",
@@ -29,7 +32,8 @@
     "@value": "1980-08"
   },
   "schema:identifier": [
-    "ark:/87293/d3xw48399"
+    "ark:/87293/d3xw48399",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Countryside_198008_001.tif"

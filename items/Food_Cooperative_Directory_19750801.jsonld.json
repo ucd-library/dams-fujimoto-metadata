@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Directory of food co-ops, listed by state, including a map, published by the Food Co-op Project, Chicago, IL.",
@@ -32,7 +35,8 @@
     "@value": "1975-08-01"
   },
   "schema:identifier": [
-    "ark:/87293/d32805631"
+    "ark:/87293/d32805631",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Food_Cooperative_Directory_19750801_001.tif"

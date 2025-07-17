@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "National Center for Appropriate Technology, Butte, MT.",
@@ -35,7 +38,8 @@
     "@value": "1979-09"
   },
   "schema:identifier": [
-    "ark:/87293/d3t727p8s"
+    "ark:/87293/d3t727p8s",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/NCATs_Best_197909_001.tif"

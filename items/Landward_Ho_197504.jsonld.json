@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Back to the land digest published by Wilkinson Press, Scio, OR.",
@@ -32,7 +35,8 @@
     "@value": "1975-04"
   },
   "schema:identifier": [
-    "ark:/87293/d3gx4527z"
+    "ark:/87293/d3gx4527z",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Landward_Ho_197504_001.tif"

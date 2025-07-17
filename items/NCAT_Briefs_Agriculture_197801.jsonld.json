@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Special issue on agriculture from the National Center for Appropriate Technology, Butte, MT.",
@@ -35,7 +38,8 @@
     "@value": "1978-01"
   },
   "schema:identifier": [
-    "ark:/87293/d3jq0t31d"
+    "ark:/87293/d3jq0t31d",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/NCAT_Briefs_Agriculture_197801_001.tif"

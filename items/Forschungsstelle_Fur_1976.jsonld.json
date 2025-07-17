@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Report about the Research Centre for International Agrarian Development, based in Heidelberg, Germany, in three languages: German, English, and French.",
@@ -32,7 +35,8 @@
     "@value": "1976"
   },
   "schema:identifier": [
-    "ark:/87293/d3zc7s25d"
+    "ark:/87293/d3zc7s25d",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Forschungsstelle_Fur_1976_001.tif"

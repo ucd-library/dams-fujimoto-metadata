@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Distributed by the Committees of Correspondence, Kansas City, MO.",
@@ -26,7 +29,8 @@
   "schema:creator": "",
   "schema:datePublished": {},
   "schema:identifier": [
-    "ark:/87293/d3dv1cw2b"
+    "ark:/87293/d3dv1cw2b",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/D-601_12-05_02_001.tif"

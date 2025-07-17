@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter published by the Agricultural Marketing Project in Nashville, TN.",
@@ -32,7 +35,8 @@
     "@value": "1981-04"
   },
   "schema:identifier": [
-    "ark:/87293/d35717w29"
+    "ark:/87293/d35717w29",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Farm_Food_Land_198104_001.tif"

@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "\"A brief guideline on the incorporation of consumer cooperatives\" published by the Cooperative League of the USA, Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1974-09"
   },
   "schema:identifier": [
-    "ark:/87293/d3959cg3n"
+    "ark:/87293/d3959cg3n",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Time_to_Organize_197409_001.tif"

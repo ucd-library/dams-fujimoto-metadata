@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Review of projects funded by the National Center for Appropriate Technology, Butte, MT.",
@@ -35,7 +38,8 @@
     "@value": "1981"
   },
   "schema:identifier": [
-    "ark:/87293/d3pg1hw54"
+    "ark:/87293/d3pg1hw54",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/NCATs_Best_1981_001.tif"

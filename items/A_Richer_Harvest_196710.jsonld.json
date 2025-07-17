@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A report on international activities to promote food security and national development supported by the Ford Foundation. Published by the Ford Foundation, New York.",
@@ -29,7 +32,8 @@
     "@value": "1967-10"
   },
   "schema:identifier": [
-    "ark:/87293/d3kp7v00m"
+    "ark:/87293/d3kp7v00m",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/A_Richer_Harvest_196710_001.tif"

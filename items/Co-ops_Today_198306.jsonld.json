@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication of the California Cooperative Federation, Sacramento, CA.",
@@ -32,7 +35,8 @@
     "@value": "1983-06"
   },
   "schema:identifier": [
-    "ark:/87293/d3f18sp0b"
+    "ark:/87293/d3f18sp0b",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Co-ops_Today_198306_001.tif"

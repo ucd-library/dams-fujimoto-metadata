@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by the Family Farm Education Project, Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1980-04"
   },
   "schema:identifier": [
-    "ark:/87293/d3vx06b0g"
+    "ark:/87293/d3vx06b0g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Family_Farm_Monitor_198004_001.tif"

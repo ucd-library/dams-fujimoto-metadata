@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by Rain Umbrella, Inc., Portland, OR.",
@@ -35,7 +38,8 @@
     "@value": "1980-11"
   },
   "schema:identifier": [
-    "ark:/87293/d3p55dq71"
+    "ark:/87293/d3p55dq71",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Rain_Journal_of_Appropriate_198011_001.tif"

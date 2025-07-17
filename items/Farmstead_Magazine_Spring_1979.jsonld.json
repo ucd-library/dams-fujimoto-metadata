@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Farmstead Magazine, for home gardening and small farming, was published by the Farmstead Press in Freedom, ME",
@@ -32,7 +35,8 @@
     "@value": "1979"
   },
   "schema:identifier": [
-    "ark:/87293/d3tx35d94"
+    "ark:/87293/d3tx35d94",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Farmstead_Magazine_Spring_1979_001.tif"

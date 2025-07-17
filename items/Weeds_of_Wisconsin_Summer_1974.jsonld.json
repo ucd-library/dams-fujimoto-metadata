@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A short primer and field guide by L. G. Monthey. Special lift-our section of the Wisconsin Academy Review, Summer, 1974. Includes hand-written notes and illustrations.",
@@ -29,7 +32,8 @@
     "@value": "1974"
   },
   "schema:identifier": [
-    "ark:/87293/d3sq8qr5t"
+    "ark:/87293/d3sq8qr5t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Weeds_of_Wisconsin_Summer_1974_001.tif"

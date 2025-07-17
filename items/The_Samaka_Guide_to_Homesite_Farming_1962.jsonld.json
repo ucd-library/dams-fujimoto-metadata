@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "By Colin M. Hoskins, Third Edition, Samaka Service Center, Inc., Manilla, Philippines.",
@@ -32,7 +35,8 @@
     "@value": "1962"
   },
   "schema:identifier": [
-    "ark:/87293/d3rr1pv4n"
+    "ark:/87293/d3rr1pv4n",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Samaka_Guide_to_Homesite_Farming_1962_001.tif"

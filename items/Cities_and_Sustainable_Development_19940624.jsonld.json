@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Program booklet for Global Forum '94, which focused on cities and sustainable environmental development. The Forum was hosted by Manchester, UK, and the booklet was printed by Centre for our Common Future, Geneva.",
@@ -32,7 +35,8 @@
     "@value": "1994-06-24"
   },
   "schema:identifier": [
-    "ark:/87293/d3z02zh1p"
+    "ark:/87293/d3z02zh1p",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Cities_and_Sustainable_Development_19940624_001.tif"

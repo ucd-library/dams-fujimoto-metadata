@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/800949"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Volume 10, No. 17 presents a critique of the activities of the Del Monte corporation in California and various global locations. Published by North American Congress in Latin America, New York.",
@@ -32,7 +35,8 @@
     "@value": "1976-09"
   },
   "schema:identifier": [
-    "ark:/87293/d3ww7771n"
+    "ark:/87293/d3ww7771n",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Del_Monte_Bitter_Fruits_197609_001.tif"

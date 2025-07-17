@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Twenty Questions on Agriculture and the Unregulated Natural Gas Utilities, published by the Texas Department of Agriculture, Austin, TX.",
@@ -29,7 +32,8 @@
     "@value": "1985"
   },
   "schema:identifier": [
-    "ark:/87293/d3n873691"
+    "ark:/87293/d3n873691",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Paying_the_Piper_1985_001.tif"

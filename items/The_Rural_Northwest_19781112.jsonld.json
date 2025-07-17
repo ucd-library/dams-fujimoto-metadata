@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Call to the conference mailer for this Rural America-sponsored conference in Seattle, WA, November 12 - 14, 1978.",
@@ -32,7 +35,8 @@
     "@value": "1978-11-12"
   },
   "schema:identifier": [
-    "ark:/87293/d3wd3q86z"
+    "ark:/87293/d3wd3q86z",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Rural_Northwest_19781112_001.tif"

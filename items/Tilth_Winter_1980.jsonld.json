@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A newsletter on small and alternative agriculture published by Ecotope/Tilth, Seattle, WA.",
@@ -29,7 +32,8 @@
     "@value": "1980"
   },
   "schema:identifier": [
-    "ark:/87293/d3dz0388h"
+    "ark:/87293/d3dz0388h",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Tilth_Winter_1980_001.tif"

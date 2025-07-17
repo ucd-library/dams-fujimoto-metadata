@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Journal in Italian on the intersections of agriculture, diet, and medicine.",
@@ -29,7 +32,8 @@
     "@value": "1979-04"
   },
   "schema:identifier": [
-    "ark:/87293/d3rf5kp4k"
+    "ark:/87293/d3rf5kp4k",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/AAM_Giornale_Di_Coordinamento_197904_001.tif"

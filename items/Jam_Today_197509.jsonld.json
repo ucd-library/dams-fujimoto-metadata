@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "California Food Coop Newsletter published in Palo Alto, CA.",
@@ -32,7 +35,8 @@
     "@value": "1975-09"
   },
   "schema:identifier": [
-    "ark:/87293/d3028pm9v"
+    "ark:/87293/d3028pm9v",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Jam_Today_197509_001.tif"

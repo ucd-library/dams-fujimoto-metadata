@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/800949"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the National Farm Worker Ministry, Los Angeles, Ca.",
@@ -32,7 +35,8 @@
     "@value": "1979-03"
   },
   "schema:identifier": [
-    "ark:/87293/d3dv1cw3t"
+    "ark:/87293/d3dv1cw3t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/NFWM_Newsletter_197903_001.tif"

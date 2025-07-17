@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/800949"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Publication in English and Spanish of the National Association of Farmworker Organizations, a nonprofit national coalition of farmworker-governed community organizations. Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1977-04"
   },
   "schema:identifier": [
-    "ark:/87293/d3gh9bh7m"
+    "ark:/87293/d3gh9bh7m",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_National_Farmworker_197704_001.tif"

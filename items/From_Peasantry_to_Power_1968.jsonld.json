@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Subtitled the Story of Soviet Agriculture by Lement Harris, published by the National Council of American-Soviet Friendship, New York.",
@@ -29,7 +32,8 @@
     "@value": "1968"
   },
   "schema:identifier": [
-    "ark:/87293/d3tm72805"
+    "ark:/87293/d3tm72805",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/From_Peasantry_to_Power_1968_001.tif"

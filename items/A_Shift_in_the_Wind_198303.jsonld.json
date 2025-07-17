@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "The newspaper of the Hunger Project, San Francisco, CA, and a progress report on efforts to end global hunger and starvation.",
@@ -32,7 +35,8 @@
     "@value": "1983-03"
   },
   "schema:identifier": [
-    "ark:/87293/d3b853r66"
+    "ark:/87293/d3b853r66",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/A_Shift_in_the_Wind_198303_001.tif"

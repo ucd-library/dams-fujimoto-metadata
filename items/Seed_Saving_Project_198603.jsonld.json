@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Sacramento Valley Seed Savers Network, Davis, CA.",
@@ -32,7 +35,8 @@
     "@value": "1986-03"
   },
   "schema:identifier": [
-    "ark:/87293/d33t9df2t"
+    "ark:/87293/d33t9df2t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Seed_Saving_Project_198603_001.tif"

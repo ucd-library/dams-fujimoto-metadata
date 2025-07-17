@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Seminal resource on sustainable agriculture by Henry W. Esbenshade, with a Preface by Isao Fujimoto, published by the Alternative Agriculture Resources Project. Printed by the Citizen Action Press, Davis, CA.",
@@ -29,7 +32,8 @@
     "@value": "1976-06"
   },
   "schema:identifier": [
-    "ark:/87293/d3gm81w7g"
+    "ark:/87293/d3gm81w7g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Farming_Sources_for_a_Social_197606_001.tif"

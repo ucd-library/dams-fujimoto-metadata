@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Review journal of Agricultural books and informations published by the Ag Access Corporation, Davis, CA.",
@@ -32,7 +35,8 @@
     "@value": "1985"
   },
   "schema:identifier": [
-    "ark:/87293/d3c824n6f"
+    "ark:/87293/d3c824n6f",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/AgAccess_Winter_1985_001.tif"

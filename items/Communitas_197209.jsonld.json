@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/870818"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A forum, clearinghouse, and catalyst for community published in Yellow Springs, OH.",
@@ -32,7 +35,8 @@
     "@value": "1972-09"
   },
   "schema:identifier": [
-    "ark:/87293/d3c24qv99"
+    "ark:/87293/d3c24qv99",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Communitas_197209_001.tif"

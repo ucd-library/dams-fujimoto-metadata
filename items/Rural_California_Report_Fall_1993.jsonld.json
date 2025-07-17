@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A quarterly publication of the California Institute for Rural Studies, Davis, CA.",
@@ -32,7 +35,8 @@
     "@value": "1993"
   },
   "schema:identifier": [
-    "ark:/87293/d3mw28n8f"
+    "ark:/87293/d3mw28n8f",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Rural_California_Report_Fall_1993_001.tif"

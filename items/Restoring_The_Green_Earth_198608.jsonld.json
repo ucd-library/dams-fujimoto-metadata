@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "In Japanese, by Kiyoichiro Adachi, Food Information Center, Tokyo, Japan.",
@@ -29,7 +32,8 @@
     "@value": "1986-08"
   },
   "schema:identifier": [
-    "ark:/87293/d37w67d42"
+    "ark:/87293/d37w67d42",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Restoring_The_Green_Earth_198608_001.tif"

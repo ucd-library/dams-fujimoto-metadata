@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "By Burt Alpert, published by Vocations for Social Change, Inc., Oakland, CA.",
@@ -29,7 +32,8 @@
     "@value": "1974"
   },
   "schema:identifier": [
-    "ark:/87293/d3s17t12x"
+    "ark:/87293/d3s17t12x",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Organizing-the_Art_of_Self-Defense_1974_001.tif"

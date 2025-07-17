@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by the North American Student Cooperative Organization, Ann Arbor, MI.",
@@ -32,7 +35,8 @@
     "@value": "1980-01"
   },
   "schema:identifier": [
-    "ark:/87293/d3cn6z68t"
+    "ark:/87293/d3cn6z68t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_New_Harbinger_198001_001.tif"

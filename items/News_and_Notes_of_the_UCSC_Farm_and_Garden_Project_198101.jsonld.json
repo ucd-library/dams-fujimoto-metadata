@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Friends of the UCSC Farm and Garden, University of California, Santa Cruz, CA.",
@@ -29,7 +32,8 @@
     "@value": "1981-01"
   },
   "schema:identifier": [
-    "ark:/87293/d3fq9qd25"
+    "ark:/87293/d3fq9qd25",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/News_and_Notes_of_the_UCSC_Farm_and_Garden_Project_198101_001.tif"

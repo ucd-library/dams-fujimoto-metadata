@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Report by Appropriate Energy Technology, U.S. Department of Energy, San Francisco, CA.",
@@ -35,7 +38,8 @@
     "@value": "1980"
   },
   "schema:identifier": [
-    "ark:/87293/d3pk0788v"
+    "ark:/87293/d3pk0788v",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Summary_of_Project_1980_001.tif"

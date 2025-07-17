@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Publication of the Center for Rural Affairs, Walthill, NE.",
@@ -32,7 +35,8 @@
     "@value": "1980"
   },
   "schema:identifier": [
-    "ark:/87293/d3w08wq35"
+    "ark:/87293/d3w08wq35",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Nebraskas_New_Land_Review_Spring_1980_001.tif"

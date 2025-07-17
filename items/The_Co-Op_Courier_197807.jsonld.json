@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Ozark Producer-Consumer Alliance, Roger, AK.",
@@ -32,7 +35,8 @@
     "@value": "1978-07"
   },
   "schema:identifier": [
-    "ark:/87293/d35h7c227"
+    "ark:/87293/d35h7c227",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Co-Op_Courier_197807_001.tif"

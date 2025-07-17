@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Quarterly produced by the New Alchemy Institute, Inc, East Falmouth, MA.",
@@ -35,7 +38,8 @@
     "@value": "1984"
   },
   "schema:identifier": [
-    "ark:/87293/d32j68c3j"
+    "ark:/87293/d32j68c3j",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/New_Alchemy_Quarterly_Summer_1984_001.tif"

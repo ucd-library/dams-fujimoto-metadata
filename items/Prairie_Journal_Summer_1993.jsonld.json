@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A journal by PrairieFire Rural Action, Des Moines, IA.",
@@ -29,7 +32,8 @@
     "@value": "1993"
   },
   "schema:identifier": [
-    "ark:/87293/d3xk84z1d"
+    "ark:/87293/d3xk84z1d",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Prairie_Journal_Summer_1993_001.tif"

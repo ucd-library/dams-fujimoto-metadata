@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by the Whole Earth Catalog, Sausalito, CA.",
@@ -29,7 +32,8 @@
     "@value": "1980"
   },
   "schema:identifier": [
-    "ark:/87293/d30r9mb87"
+    "ark:/87293/d30r9mb87",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Coevolution_Quarterly_Summer_1980_001.tif"

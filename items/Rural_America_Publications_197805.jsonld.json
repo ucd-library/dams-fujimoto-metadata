@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A resource list published by Rural America, Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1978-05"
   },
   "schema:identifier": [
-    "ark:/87293/d3rn30g26"
+    "ark:/87293/d3rn30g26",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Rural_America_Publications_197805_001.tif"

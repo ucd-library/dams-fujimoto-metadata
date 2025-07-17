@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/870818"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Publication by John Zippert, Federation of Southern Cooperatives, Atlanta, GA.",
@@ -32,7 +35,8 @@
     "@value": "1972-03"
   },
   "schema:identifier": [
-    "ark:/87293/d3g15tk12"
+    "ark:/87293/d3g15tk12",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Some_Ideas_for_Community_Organizers_001.tif"

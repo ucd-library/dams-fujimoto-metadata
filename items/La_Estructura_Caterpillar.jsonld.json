@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Spanish translation of \"The Caterpillar Cold Frame\" published by the National Center for Appropriate Technology, Butte, MT.",
@@ -29,7 +32,8 @@
   "schema:creator": "",
   "schema:datePublished": {},
   "schema:identifier": [
-    "ark:/87293/d37d2qf9c"
+    "ark:/87293/d37d2qf9c",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/La_Estructura_Caterpillar_001.tif"

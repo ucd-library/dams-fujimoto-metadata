@@ -17,9 +17,12 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
-  "schema:description": "French incarnation of the Whole Earth Catalog inspired US quarterly of the same name. Published by l\u2019Association l\u2019Arc-en-Ciel, Paris.",
+  "schema:description": "French incarnation of the Whole Earth Catalog inspired US quarterly of the same name. Published by l’Association l’Arc-en-Ciel, Paris.",
   "schema:associatedMedia": {
     "@id": "@base:/media/Coevolution_Spring_1981.pdf"
   },
@@ -29,7 +32,8 @@
     "@value": "1981"
   },
   "schema:identifier": [
-    "ark:/87293/d3w08wq2p"
+    "ark:/87293/d3w08wq2p",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Coevolution_Spring_1981_001.tif"

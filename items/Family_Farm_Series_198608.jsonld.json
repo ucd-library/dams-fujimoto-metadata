@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by the Small Farm Center, University of California, Davis.",
@@ -32,7 +35,8 @@
     "@value": "1986-08"
   },
   "schema:identifier": [
-    "ark:/87293/d3mc8rq0c"
+    "ark:/87293/d3mc8rq0c",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Family_Farm_Series_198608_001.tif"

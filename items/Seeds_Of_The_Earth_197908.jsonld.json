@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Publication examining the concern that \"the genetic base of the world’s food supply was fast disappearing and that restrictive legislation was making it possible for agribusiness to gain control of this vital segment of the total food system.\"\" Seeds of the Earth: A Private or Public Resource is by P.R. Mooney  and published by the International Coalition for Development Action (UK) with copyright held by the Canadian Council for International Co-operation. Pre-publication edition.\"",
@@ -32,7 +35,8 @@
     "@value": "1979-08"
   },
   "schema:identifier": [
-    "ark:/87293/d3cc0v19s"
+    "ark:/87293/d3cc0v19s",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Seeds_Of_The_Earth_197908_001.tif"

@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A journal of the cooperative movement by the North American Student Cooperative Organization, Ann Arbor, MI.",
@@ -32,7 +35,8 @@
     "@value": "1973-03"
   },
   "schema:identifier": [
-    "ark:/87293/d3m902b1x"
+    "ark:/87293/d3m902b1x",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Journal_of_the_New_Harbinger_197303_001.tif"

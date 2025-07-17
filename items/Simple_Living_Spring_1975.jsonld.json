@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication of the American Friends Service Committee, San Francisco, CA.",
@@ -35,7 +38,8 @@
     "@value": "1975"
   },
   "schema:identifier": [
-    "ark:/87293/d39g5gn27"
+    "ark:/87293/d39g5gn27",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Simple_Living_Spring_1975_001.tif"

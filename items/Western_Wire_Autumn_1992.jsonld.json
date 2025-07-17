@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Magazine of the Western Rural Development Center, Corvallis, OR.",
@@ -32,7 +35,8 @@
     "@value": "1992"
   },
   "schema:identifier": [
-    "ark:/87293/d3nz80z12"
+    "ark:/87293/d3nz80z12",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Western_Wire_Autumn_1992_001.tif"

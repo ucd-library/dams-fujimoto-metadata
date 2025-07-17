@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/533903"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication of the American Friends Service Committee, Palo Alto, CA.",
@@ -32,7 +35,8 @@
     "@value": "1977"
   },
   "schema:identifier": [
-    "ark:/87293/d3x63bd2h"
+    "ark:/87293/d3x63bd2h",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Simple_Living_Transportation_001.tif"

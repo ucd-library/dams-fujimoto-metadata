@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter on national co-op activities published by the Food Co-op Project, Chicago, IL.",
@@ -32,7 +35,8 @@
     "@value": "1975-09"
   },
   "schema:identifier": [
-    "ark:/87293/d3q23r73g"
+    "ark:/87293/d3q23r73g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Food_Co-op_Nooz_197509_001.tif"

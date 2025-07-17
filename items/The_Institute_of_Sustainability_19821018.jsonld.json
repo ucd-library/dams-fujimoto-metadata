@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "The Future of Agriculture in Sri Lanka: A Clash of Values: Buddhism vs. Western Materialism. By Jerry A. Moles with Kamal Melvani. Report no. 7 by the Institute of Sustainability, Davis, CA.",
@@ -32,7 +35,8 @@
     "@value": "1982-10-18"
   },
   "schema:identifier": [
-    "ark:/87293/d3474702g"
+    "ark:/87293/d3474702g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Institute_of_Sustainability_19821018_001.tif"

@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Arcata, CA, in Humboldt County.",
@@ -32,7 +35,8 @@
     "@value": "1976"
   },
   "schema:identifier": [
-    "ark:/87293/d33r0q19f"
+    "ark:/87293/d33r0q19f",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Arcata_Coop_Newsletter_1976_001.tif"

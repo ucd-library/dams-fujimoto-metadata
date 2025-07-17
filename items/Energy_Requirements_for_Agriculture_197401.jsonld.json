@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A joint study of the California Department of Food and Agriculture, and UC Davis.",
@@ -35,7 +38,8 @@
     "@value": "1974-01"
   },
   "schema:identifier": [
-    "ark:/87293/d3862bk2g"
+    "ark:/87293/d3862bk2g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Energy_Requirements_for_Agriculture_197401_001.tif"

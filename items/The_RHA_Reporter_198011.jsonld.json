@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter on the Rural Housing Alliance published by Rural America, Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1980-11"
   },
   "schema:identifier": [
-    "ark:/87293/d38p5vh94"
+    "ark:/87293/d38p5vh94",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_RHA_Reporter_198011_001.tif"

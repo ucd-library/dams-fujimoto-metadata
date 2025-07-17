@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "\"A newsletter surveying legal and administrative issues affecting small and low-income farmers\" published by the Center for Rural Affairs, Walthill, NE.",
@@ -32,7 +35,8 @@
     "@value": "1979"
   },
   "schema:identifier": [
-    "ark:/87293/d3h70877b"
+    "ark:/87293/d3h70877b",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Small_Farm_Advocate_Fall_1979_001.tif"

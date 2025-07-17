@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "In Spanish, this issue focuses on food technology. Published by Universidad del Valle, Cali, Colombia.",
@@ -32,7 +35,8 @@
     "@value": "1980-07"
   },
   "schema:identifier": [
-    "ark:/87293/d3s46hd76"
+    "ark:/87293/d3s46hd76",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Dialogo_Tecnologia_198007_001.tif"

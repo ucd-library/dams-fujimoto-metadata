@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Japanese language news-magazine on food, agriculture, medicine, and the environment, published by the Food Information Center in Tokyo, Japan.",
@@ -29,7 +32,8 @@
     "@value": "1987-11"
   },
   "schema:identifier": [
-    "ark:/87293/d30g3h577"
+    "ark:/87293/d30g3h577",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Food_Agriculture_Medical_Environment_198711_001.tif"

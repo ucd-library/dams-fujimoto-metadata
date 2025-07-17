@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Resource guide to issues related to agriculture, food distribution, and hunger, published by the Media Consultations on Hunger, Los Angeles, CA.",
@@ -29,7 +32,8 @@
     "@value": "1977"
   },
   "schema:identifier": [
-    "ark:/87293/d3m902b0f"
+    "ark:/87293/d3m902b0f",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Food_and_Hunger_001.tif"

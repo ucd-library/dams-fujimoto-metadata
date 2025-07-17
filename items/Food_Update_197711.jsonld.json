@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter on food policy published by the Community and Economic Development Division, US General Accounting Office, Washington DC.",
@@ -29,7 +32,8 @@
     "@value": "1977-11"
   },
   "schema:identifier": [
-    "ark:/87293/d3vm4351w"
+    "ark:/87293/d3vm4351w",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Food_Update_197711_001.tif"

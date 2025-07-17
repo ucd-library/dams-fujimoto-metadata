@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A newsletter by Homeworkers Organized for More Employment (H.O.M.E), Orland, ME.",
@@ -29,7 +32,8 @@
     "@value": "1981-03"
   },
   "schema:identifier": [
-    "ark:/87293/d3v698k9z"
+    "ark:/87293/d3v698k9z",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/This_Time_on_the_Market_198103_001.tif"

@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication of the American Friends Service Committee, Palo Alto, CA.",
@@ -35,7 +38,8 @@
     "@value": "1976"
   },
   "schema:identifier": [
-    "ark:/87293/d35q4rt9z"
+    "ark:/87293/d35q4rt9z",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Simple_Living_Spring_1976_001.tif"

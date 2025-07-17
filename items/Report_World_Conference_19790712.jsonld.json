@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Report of the World Conference on Agrarian Reform and Rural Development (Rome, Italy), published by the Food and Agriculture Organization of the United Nations.",
@@ -32,7 +35,8 @@
     "@value": "1979-07-12"
   },
   "schema:identifier": [
-    "ark:/87293/d3cn6z67b"
+    "ark:/87293/d3cn6z67b",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Report_World_Conference_19790712_001.tif"

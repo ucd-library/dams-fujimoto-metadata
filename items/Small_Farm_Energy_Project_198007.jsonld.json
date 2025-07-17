@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Small Farm Energy Project, Hartington, NE.",
@@ -35,7 +38,8 @@
     "@value": "1980-07"
   },
   "schema:identifier": [
-    "ark:/87293/d33r0q20j"
+    "ark:/87293/d33r0q20j",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Small_Farm_Energy_Project_198007_001.tif"

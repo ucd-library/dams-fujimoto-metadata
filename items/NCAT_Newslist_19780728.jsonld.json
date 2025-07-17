@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Replaces the NCAT News as the newsletter of the National Center for Appropriate Technology, Butte, MT.",
@@ -35,7 +38,8 @@
     "@value": "1978-07-28"
   },
   "schema:identifier": [
-    "ark:/87293/d31n7xv5r"
+    "ark:/87293/d31n7xv5r",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/NCAT_Newslist_19780728_001.tif"

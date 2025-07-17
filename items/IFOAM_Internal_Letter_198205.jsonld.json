@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the International Federation of Organic Agriculture Movements (in English), Paris, France.",
@@ -29,7 +32,8 @@
     "@value": "1982-05"
   },
   "schema:identifier": [
-    "ark:/87293/d37m0474j"
+    "ark:/87293/d37m0474j",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/IFOAM_Internal_Letter_198205_001.tif"

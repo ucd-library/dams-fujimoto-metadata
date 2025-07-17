@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter covering alternative technology, small farming, cooperatives, and rural development in Yolo County and Northern California, originally started by Isao Fujimoto and colleagues. Features the \"Mr. Appropriate\" cartoon by R. Crumb and Martin Barnes, and other illustrations and comics by R. Crumb. Published in Yolo County, first in Winters, CA, then in Davis, CA.",
@@ -35,7 +38,8 @@
     "@value": "1981-03"
   },
   "schema:identifier": [
-    "ark:/87293/d3vh5cr91"
+    "ark:/87293/d3vh5cr91",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Winds_of_Change_198103_001.tif"

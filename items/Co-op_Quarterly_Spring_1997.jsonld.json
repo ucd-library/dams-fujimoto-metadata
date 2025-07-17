@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter for the Center for Cooperatives, University of California, published by UC Davis, Davis, CA.",
@@ -32,7 +35,8 @@
     "@value": "1997"
   },
   "schema:identifier": [
-    "ark:/87293/d34j0b50k"
+    "ark:/87293/d34j0b50k",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Co-op_Quarterly_Spring_1997_001.tif"

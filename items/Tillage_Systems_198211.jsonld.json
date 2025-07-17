@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A newsletter of the College of Agriculture, University of Kentucky, Lexington, KY",
@@ -29,7 +32,8 @@
     "@value": "1982-11"
   },
   "schema:identifier": [
-    "ark:/87293/d3kp7v02k"
+    "ark:/87293/d3kp7v02k",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Tillage_Systems_198211_001.tif"

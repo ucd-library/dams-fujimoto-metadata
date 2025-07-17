@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "The \"magazine of alternative science and technology\" published by Undercurrents Limited, London, United Kingdom.",
@@ -32,7 +35,8 @@
     "@value": "1978-06"
   },
   "schema:identifier": [
-    "ark:/87293/d3pz51v19"
+    "ark:/87293/d3pz51v19",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Undercurrents_197806_001.tif"

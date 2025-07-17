@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by Research, Education and Assistance for Cooperatives and Health (REACH), Sacramento, CA.",
@@ -32,7 +35,8 @@
     "@value": "1976"
   },
   "schema:identifier": [
-    "ark:/87293/d3n58ct69"
+    "ark:/87293/d3n58ct69",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/REACH_1976_001.tif"

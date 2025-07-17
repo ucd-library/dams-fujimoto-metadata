@@ -26,6 +26,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Association of Migrant Organizations, Tallahassee, FL.",
@@ -38,7 +41,8 @@
     "@value": "1981-01"
   },
   "schema:identifier": [
-    "ark:/87293/d3js9hg5n"
+    "ark:/87293/d3js9hg5n",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_AMO_Harvester_198101_001.tif"

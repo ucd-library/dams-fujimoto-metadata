@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A Voice for Small Town and Rural People, published by Rural America, Inc., Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1982"
   },
   "schema:identifier": [
-    "ark:/87293/d38k7545q"
+    "ark:/87293/d38k7545q",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Rural_America_A_Voice_Fall_1982_001.tif"

@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Publication by the UC Davis Small Farm Center, Davis, CA and the University of California Cooperative Extension.",
@@ -32,7 +35,8 @@
     "@value": "1981-08"
   },
   "schema:identifier": [
-    "ark:/87293/d3qf8js5t"
+    "ark:/87293/d3qf8js5t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Small_Farm_News_198108_001.tif"

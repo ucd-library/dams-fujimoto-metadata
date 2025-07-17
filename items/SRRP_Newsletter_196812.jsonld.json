@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Southern Rural Research Project, Selma, AL.",
@@ -32,7 +35,8 @@
     "@value": "1968-12"
   },
   "schema:identifier": [
-    "ark:/87293/d32r3p48q"
+    "ark:/87293/d32r3p48q",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/SRRP_Newsletter_196812_001.tif"

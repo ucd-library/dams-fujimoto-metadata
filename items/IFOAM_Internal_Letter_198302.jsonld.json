@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the International Federation of Organic Agriculture Movements (in English), Bedoin, France.",
@@ -29,7 +32,8 @@
     "@value": "1983-02"
   },
   "schema:identifier": [
-    "ark:/87293/d33t9df1b"
+    "ark:/87293/d33t9df1b",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/IFOAM_Internal_Letter_198302_001.tif"

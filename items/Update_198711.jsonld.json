@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Rural Coalition, Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1987-11"
   },
   "schema:identifier": [
-    "ark:/87293/d32805650"
+    "ark:/87293/d32805650",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Update_198711_001.tif"

@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A report and proposal on the future of urban and rural communities, and agriculture, published by the US Department of Agriculture.",
@@ -35,7 +38,8 @@
     "@value": "1967"
   },
   "schema:identifier": [
-    "ark:/87293/d3794124g"
+    "ark:/87293/d3794124g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Communities_of_Tomorrow_Agriculture_2000_001.tif"

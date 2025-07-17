@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter by Rural American Women, Inc., Washington DC.",
@@ -32,7 +35,8 @@
     "@value": "1979-05"
   },
   "schema:identifier": [
-    "ark:/87293/d3vq2sj4t"
+    "ark:/87293/d3vq2sj4t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Rural_American_Women_197905_001.tif"

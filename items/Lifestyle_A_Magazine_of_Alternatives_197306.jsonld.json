@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Mother Earth News, Inc, St. Madison, OH.",
@@ -29,7 +32,8 @@
     "@value": "1973-06"
   },
   "schema:identifier": [
-    "ark:/87293/d3fx7457q"
+    "ark:/87293/d3fx7457q",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Lifestyle_A_Magazine_of_Alternatives_197306_001.tif"

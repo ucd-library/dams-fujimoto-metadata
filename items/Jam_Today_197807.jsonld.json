@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "California journal of cooperation published by the California Cooperative Federation, Davis, CA.",
@@ -32,7 +35,8 @@
     "@value": "1978-07"
   },
   "schema:identifier": [
-    "ark:/87293/d31v5bn1d"
+    "ark:/87293/d31v5bn1d",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Jam_Today_197807_001.tif"

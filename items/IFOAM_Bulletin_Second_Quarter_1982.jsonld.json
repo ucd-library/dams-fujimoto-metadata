@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Quarterly bulletin of the International Federation of Organic Agriculture Movements published by the Rodale Research Center, Kutztown, PA.",
@@ -29,7 +32,8 @@
     "@value": "1982"
   },
   "schema:identifier": [
-    "ark:/87293/d3c824n7x"
+    "ark:/87293/d3c824n7x",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/IFOAM_Bulletin_Second_Quarter_1982_001.tif"

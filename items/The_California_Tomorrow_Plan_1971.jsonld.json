@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Publication by the California Tomorrow non-profit outlining a plan for the land, cities, and people of California. San Francisco, CA.",
@@ -29,7 +32,8 @@
     "@value": "1971"
   },
   "schema:identifier": [
-    "ark:/87293/d3f18sp1t"
+    "ark:/87293/d3f18sp1t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_California_Tomorrow_Plan_1971_001.tif"

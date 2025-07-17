@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Agricultural Planning Studies, no. 6, published by the Food and Agriculture Organization of the United Nations, Rome.",
@@ -29,7 +32,8 @@
     "@value": "1966"
   },
   "schema:identifier": [
-    "ark:/87293/d37h1dv3s"
+    "ark:/87293/d37h1dv3s",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Agricultural_Development_Modern_Japan_1966_001.tif"

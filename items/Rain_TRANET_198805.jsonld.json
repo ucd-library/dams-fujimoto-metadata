@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter merging Rain Magazine and the TRANET Newsletter-Directory, focused on sustainable technology and self-reliance. Published by TRANET, Rangeley, ME.",
@@ -35,7 +38,8 @@
     "@value": "1988-05"
   },
   "schema:identifier": [
-    "ark:/87293/d3dn4038f"
+    "ark:/87293/d3dn4038f",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Rain_TRANET_198805_001.tif"

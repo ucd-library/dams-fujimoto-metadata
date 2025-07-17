@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Bulletin of the Centro de Informacion Technologica, Cartago, Costa Rica.",
@@ -35,7 +38,8 @@
     "@value": "1982-10"
   },
   "schema:identifier": [
-    "ark:/87293/d32z12x5f"
+    "ark:/87293/d32z12x5f",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Serie_Informativa_Tecnologia_198210_001.tif"

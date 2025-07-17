@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication of the American Friends Service Committee, Palo Alto, CA.",
@@ -35,7 +38,8 @@
     "@value": "1978"
   },
   "schema:identifier": [
-    "ark:/87293/d3td9ng7z"
+    "ark:/87293/d3td9ng7z",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Simple_Living_Agriculture_001.tif"

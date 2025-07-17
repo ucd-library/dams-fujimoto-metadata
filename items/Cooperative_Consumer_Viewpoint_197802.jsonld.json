@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by the Delaware Valley Coalition for Consumer Education and Cooperation, Philadelphia.",
@@ -32,7 +35,8 @@
     "@value": "1978-02"
   },
   "schema:identifier": [
-    "ark:/87293/d33j3980b"
+    "ark:/87293/d33j3980b",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Cooperative_Consumer_Viewpoint_197802_001.tif"

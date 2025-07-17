@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "",
@@ -29,7 +32,8 @@
     "@value": "1977-07"
   },
   "schema:identifier": [
-    "ark:/87293/d3qb9vd2h"
+    "ark:/87293/d3qb9vd2h",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Countryside_197707_001.tif"

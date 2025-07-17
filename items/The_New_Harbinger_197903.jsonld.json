@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Journal tagline: the Harbinger of Economic Democracy. Published by the North American Student Cooperative Organization, Ann Arbor, MI.",
@@ -32,7 +35,8 @@
     "@value": "1979-03"
   },
   "schema:identifier": [
-    "ark:/87293/d31c1tp76"
+    "ark:/87293/d31c1tp76",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_New_Harbinger_197903_001.tif"

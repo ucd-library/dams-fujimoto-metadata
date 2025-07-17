@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "An Evaluation by the Rural America CDBG Monitoring Program. Rural America, Washington DC.",
@@ -35,7 +38,8 @@
     "@value": "1981-10"
   },
   "schema:identifier": [
-    "ark:/87293/d3n010213"
+    "ark:/87293/d3n010213",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Small_Cities_Community_198110_001.tif"

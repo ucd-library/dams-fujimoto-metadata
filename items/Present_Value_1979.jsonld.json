@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Published by the State of California Office of Appropriate Technology, Sacramento, CA.",
@@ -35,7 +38,8 @@
     "@value": "1979"
   },
   "schema:identifier": [
-    "ark:/87293/d3sx64j00"
+    "ark:/87293/d3sx64j00",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Present_Value_1979_001.tif"

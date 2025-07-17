@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Alternative magazine published by the Whole Earth Group in Brighton, United Kingdom.",
@@ -29,7 +32,8 @@
     "@value": "1978-06"
   },
   "schema:identifier": [
-    "ark:/87293/d38s4jx3j"
+    "ark:/87293/d38s4jx3j",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Whole_Earth_197806_001.tif"

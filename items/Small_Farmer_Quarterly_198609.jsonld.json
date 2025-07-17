@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter by the University of California Cooperative Extension focused on Fresno and Tulare Counties. Visalia, CA.",
@@ -35,7 +38,8 @@
     "@value": "1986-09"
   },
   "schema:identifier": [
-    "ark:/87293/d3hx15z7s"
+    "ark:/87293/d3hx15z7s",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Small_Farmer_Quarterly_198609_001.tif"

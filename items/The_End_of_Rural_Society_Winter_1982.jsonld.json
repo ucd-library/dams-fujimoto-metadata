@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "",
@@ -29,7 +32,8 @@
     "@value": "1982"
   },
   "schema:identifier": [
-    "ark:/87293/d3wp9tf4h"
+    "ark:/87293/d3wp9tf4h",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_End_of_Rural_Society_Winter_1982_001.tif"

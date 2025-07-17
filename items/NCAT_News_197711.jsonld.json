@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "The newsletter of the National Center for Appropriate Technology, Butte, MT.",
@@ -35,7 +38,8 @@
     "@value": "1977-11"
   },
   "schema:identifier": [
-    "ark:/87293/d3s756s91"
+    "ark:/87293/d3s756s91",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/NCAT_News_197711_001.tif"

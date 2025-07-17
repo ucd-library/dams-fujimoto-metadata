@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1747391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Ecoecology Program-later the Center for Agroecology and Sustainable Food Systems--at the University of Santa Cruz, Santa Cruz, CA.",
@@ -35,7 +38,8 @@
     "@value": "1994"
   },
   "schema:identifier": [
-    "ark:/87293/d3sx64j1g"
+    "ark:/87293/d3sx64j1g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Cultivar_Winter_1994_001.tif"

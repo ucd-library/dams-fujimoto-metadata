@@ -23,6 +23,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "An Analysis of Farm Alcohol Fuel. Newsletter of the Small Farm Energy Project, Hartington, NE.",
@@ -35,7 +38,8 @@
     "@value": "1979-05"
   },
   "schema:identifier": [
-    "ark:/87293/d3000074h"
+    "ark:/87293/d3000074h",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Small_Farm_Energy_Project_Special_197905_001.tif"

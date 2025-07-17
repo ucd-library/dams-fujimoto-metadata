@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/800949"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication by the Association of Migrant Organizations, Tallahassee, FL.",
@@ -32,7 +35,8 @@
     "@value": "1983-03"
   },
   "schema:identifier": [
-    "ark:/87293/d3cr5nm27"
+    "ark:/87293/d3cr5nm27",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/The_Harvester_198303_001.tif"

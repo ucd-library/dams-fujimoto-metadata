@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1101498"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Rural Advancement Fund, Charlotte, NC.",
@@ -32,7 +35,8 @@
     "@value": "1985"
   },
   "schema:identifier": [
-    "ark:/87293/d30g3h58q"
+    "ark:/87293/d30g3h58q",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Rural_Advance_Fall_1985_001.tif"

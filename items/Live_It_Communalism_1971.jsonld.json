@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Booklet on collectives published by the Canyon Collective, Canyon, CA.",
@@ -32,7 +35,8 @@
     "@value": "1971"
   },
   "schema:identifier": [
-    "ark:/87293/d3xw4840d"
+    "ark:/87293/d3xw4840d",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Live_It_Communalism_1971_001.tif"

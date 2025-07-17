@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/533903"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication of the American Friends Service Committee, San Francisco, CA.",
@@ -32,7 +35,8 @@
     "@value": "1974"
   },
   "schema:identifier": [
-    "ark:/87293/d3pn8xp3t"
+    "ark:/87293/d3pn8xp3t",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Simple_Living_Christmas_1974_001.tif"

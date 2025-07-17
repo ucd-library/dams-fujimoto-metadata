@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the Transnational Network for Appropriate/Alternative Technologies focused on sustainable technology and self-reliance. Published by TRANET, Rangeley, ME.",
@@ -32,7 +35,8 @@
     "@value": "1989-05"
   },
   "schema:identifier": [
-    "ark:/87293/d31r6n78g"
+    "ark:/87293/d31r6n78g",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/TRANET_198905_001.tif"

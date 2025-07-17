@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1736608"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter of the West Coast Cooperative and Collective Food Workers, Santa Rosa and Oakland, CA.",
@@ -32,7 +35,8 @@
     "@value": "1976-04"
   },
   "schema:identifier": [
-    "ark:/87293/d3mk65g8c"
+    "ark:/87293/d3mk65g8c",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Common_Ground_197604_001.tif"

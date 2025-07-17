@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "",
@@ -29,7 +32,8 @@
     "@value": "1979"
   },
   "schema:identifier": [
-    "ark:/87293/d37659p3q"
+    "ark:/87293/d37659p3q",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Farmstead_Magazine_Fall_1979_001.tif"

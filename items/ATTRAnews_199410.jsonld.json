@@ -26,6 +26,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A publication of Appropriate Technology Transfer for Rural Areas (Fayetteville, AR), A project of the National Center for Appropriate Technology",
@@ -38,7 +41,8 @@
     "@value": "1994-10"
   },
   "schema:identifier": [
-    "ark:/87293/d3qf8js3v"
+    "ark:/87293/d3qf8js3v",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/ATTRAnews_199410_001.tif"

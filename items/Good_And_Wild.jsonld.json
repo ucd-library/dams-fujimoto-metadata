@@ -20,6 +20,9 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/921488"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "Newsletter published by the International Association for Education, Development and Distribution of Lesser Known Food Plants and Trees, Lynwood, CA.",
@@ -32,7 +35,8 @@
     "@value": "1977"
   },
   "schema:identifier": [
-    "ark:/87293/d3k35mn2k"
+    "ark:/87293/d3k35mn2k",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Good_And_Wild_001.tif"

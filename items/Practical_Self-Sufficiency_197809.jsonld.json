@@ -17,6 +17,9 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
   "schema:description": "A back-to-the-land periodical published by Broad Leys Publishing Company, Widdington, Saffron Walden, Essex, United Kingdom.",
@@ -29,7 +32,8 @@
     "@value": "1978-09"
   },
   "schema:identifier": [
-    "ark:/87293/d39w0964j"
+    "ark:/87293/d39w0964j",
+    "D-601"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Practical_Self-Sufficiency_197809_001.tif"
