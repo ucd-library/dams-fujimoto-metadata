@@ -16,7 +16,7 @@
   ],
   "schema:about": [
     {
-      "@id": "Sustainability"
+      "@id": "http://id.worldcat.org/fast/1747391"
     },
     {
       "@id": "http://id.worldcat.org/fast/1919968"
@@ -29,8 +29,7 @@
   "schema:datePublished": {},
   "schema:identifier": [
     "ark:/87293/d37m04751",
-    "D-601, Box:2, Folder:21",
-    "D-601"
+    "D-601, Box:2, Folder:21"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Seed_Banks_Serving_People_19811009_0001.tif"

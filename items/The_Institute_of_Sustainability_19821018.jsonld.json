@@ -15,6 +15,9 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:about": [
+ 	{
+      "@id": "http://id.worldcat.org/fast/1747391"
+    },
     {
       "@id": "http://id.worldcat.org/fast/1094570"
     },
