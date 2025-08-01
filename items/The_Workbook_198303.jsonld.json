@@ -19,7 +19,7 @@
       "@id": "http://id.worldcat.org/fast/1919968"
     }
   ],
-  "schema:description": "A catalog of information sources about environmental, social, and consumer issues, published by the Southwest Research and Information Center, Albuquerque, NM.",
+  "schema:description": "A catalog of information sources about environmental, social, and consumer issues. Copyright held by the Southwest Research and Information Center, Albuquerque, NM.",
   "schema:associatedMedia": {
     "@id": "@base:/media/The_Workbook_198303.pdf"
   },
