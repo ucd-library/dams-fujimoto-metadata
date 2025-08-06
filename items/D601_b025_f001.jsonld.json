@@ -37,7 +37,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D601_b025_f001.pdf"
   },
-  "schema:creator": "Fujimoto, Isao",
+  "schema:creator": "AARP and Fujimoto, Isao",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1975"

@@ -25,7 +25,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D601_b016_f018.pdf"
   },
-  "schema:creator": "",
+  "schema:creator": "Fujimoto, Isao",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1965-1970"

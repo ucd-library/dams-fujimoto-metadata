@@ -23,7 +23,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/Farming_Sources_for_a_Social_197606.pdf"
   },
-  "schema:creator": "",
+  "schema:creator": "Fujimoto, Isao",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gMonthYear",
     "@value": "1976-06"

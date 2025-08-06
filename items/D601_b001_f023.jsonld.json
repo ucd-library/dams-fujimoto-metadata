@@ -16,35 +16,31 @@
   ],
   "schema:about": [
     {
-      "@id": "http://id.worldcat.org/fast/1094570"
+      "@id": "http://id.worldcat.org/fast/1101498"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1747391"
-    },
-    {
-      "@id": "http://id.worldcat.org/fast/1919968"
+      "@id": "http://id.worldcat.org/fast/1424060"
     }
   ],
-  "schema:description": "Special issue on agriculture from the National Center for Appropriate Technology, Butte, MT. Includes an editoral by Isao Fujimoto.",
   "schema:associatedMedia": {
-    "@id": "@base:/media/NCAT_Briefs_Agriculture_197801.pdf"
+    "@id": "@base:/media/D601_b001_f023.pdf"
   },
-  "schema:creator": "Fujimoto, Isao",
+  "schema:creator": "",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gMonthYear",
-    "@value": "1978-01"
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1983-1988"
   },
   "schema:identifier": [
-    "ark:/87293/d3jq0t31d",
-    "D-601"
+    "ark:/87293/ark:/87293/d3dz03890",
+    "D-601, Box:1, Folder:23"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/NCAT_Briefs_Agriculture_197801_001.tif"
+    "@id": "@base:/media/images/D601_b001_f022_0001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "NCAT Briefs: Agriculture",
+  "schema:name": "California Institute for Rural Studies",
   "schema:publisher": "",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
@@ -53,5 +49,6 @@
   "schema:sdLicense": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:description": ""
 }

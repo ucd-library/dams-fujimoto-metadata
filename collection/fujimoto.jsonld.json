@@ -25,7 +25,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "Serials and Manuscripts from the Fujimoto Collection",
+  "schema:description": "The Isao Fujimoto collection includes correspondence, records, and publications related to alternative (green) technology, the development of the Northern California food movement, and community and rural development. Isao Fujimoto (1933-2022) was a Senior Lecturer Emeritus in Asian American Studies and the UC Davis Graduate Program in Community Development. He joined UC Davis in 1967 as a founding member of the community development program and later founded the Asian-American Studies program. Fujimoto's many contributions to the Davis community include his work with the Davis Farmer's Market and the Davis Food Co-op, and development of the Alternative Agricultural Resources Project.",
   "schema:identifier": "ark:/87293/d3z31nw6z",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
