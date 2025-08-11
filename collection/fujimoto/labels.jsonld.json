@@ -17,6 +17,12 @@
         "@id": "http://id.worldcat.org/fast/533903",
         "http://schema.org/name": "American Friends Service Committee"
     },
+    { 	"@id": "http://id.worldcat.org/fast/1423689",
+    	"http://schema.org/name": "Photographs"
+    },
+    {	"@id": "http://id.worldcat.org/fast/155947",
+    	"http://schema.org/name": "Fujimoto, Isao, 1933-2022"	
+    },
     {
         "@id": "http://id.worldcat.org/fast/806134",
         "http://schema.org/name": "Alternative Agriculture"
