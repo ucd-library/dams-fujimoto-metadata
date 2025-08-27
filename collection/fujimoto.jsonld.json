@@ -10,8 +10,7 @@
   },
   "@id": "",
   "@type": [
-    "schema:Collection",
-    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+    "schema:Collection"
   ],
   "ucdlib:hasLabel": {
     "@id": "@base:/labels"
@@ -61,7 +60,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "The Isao Fujimoto collection includes correspondence, records, and publications related to alternative (green) technology, the development of the Northern California food movement, and community and rural development. Isao Fujimoto (1933-2022) was a Senior Lecturer Emeritus in Asian American Studies and the UC Davis Graduate Program in Community Development. He joined UC Davis in 1967 as a founding member of the community development program and later founded the Asian-American Studies program. Fujimoto's many contributions to the Davis community include his work with the Davis Farmer's Market and the Davis Food Co-op, and development of the Alternative Agricultural Resources Project.\n\n The collection finding aid is available at [The Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8028x80).",
+  "schema:description": "The Isao Fujimoto collection includes correspondence, records, and publications related to alternative (green) technology, the development of the Northern California food movement, and community and rural development. Isao Fujimoto (1933-2022) was a Senior Lecturer Emeritus in Asian American Studies and the UC Davis Graduate Program in Community Development. He joined UC Davis in 1967 as a founding member of the community development program and later founded the Asian-American Studies program. Fujimoto's many contributions to the Davis community include his work with the Davis Farmer's Market and the Davis Food Co-op, and development of the Alternative Agricultural Resources Project./n/n The Fujimoto digital collection includes his [personal papers and archives](https://dev.dams.library.ucdavis.edu/search//%5B%5B%22%40graph.isPartOf.%40id%22%2C%22or%22%2C%22%2Fcollection%2Fark%3A%2F87293%2Fd3z31nw6z%22%5D%2C%5B%22%40graph.subjects.name%22%2C%22or%22%2C%22Serial%20publications%22%5D%5D/%5B%7B%22name.raw%22%3A%7B%22order%22%3A%22asc%22%7D%7D%2C%7B%22%40graph.%40id%22%3A%7B%22order%22%3A%22asc%22%7D%7D%5D/20/), in addition to the [grassroot publications]('https://dev.dams.library.ucdavis.edu/search//%5B%5B%22%40graph.isPartOf.%40id%22%2C%22or%22%2C%22%2Fcollection%2Fark%3A%2F87293%2Fd3z31nw6z%22%5D%2C%5B%22%40graph.subjects.name%22%2C%22or%22%2C%22Serial%20publications%22%5D%5D/%5B%7B%22name.raw%22%3A%7B%22order%22%3A%22asc%22%7D%7D%2C%7B%22%40graph.%40id%22%3A%7B%22order%22%3A%22asc%22%7D%7D%5D/20/') that composed the community resource library that operated for years out of the back porch of his home in Davis.\n\n The collection finding aid is available at [The Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8028x80).",
   "schema:identifier": [
     "ark:/87293/d3z31nw6z",
     "D-601"
